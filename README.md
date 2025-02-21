@@ -8,7 +8,7 @@ graph TD;
     
     B3 --> C[Feature Engineering]
     C --> C1[Scaling adjustments]
-    C --> C2[Momentum indicators (1, 3, 6, 9 months)]
+    C --> C2[Momentum indicators: 1, 3, 6, 9 months]
     C --> C3[TTM indicators and financial factors]
     C --> C4[Industry and macroeconomic features]
 
